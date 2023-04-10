@@ -1,0 +1,28 @@
+body {
+   background-color: #BA90C6;
+}
+.header {
+  text-align: center;
+  font-family: 'Lobster', cursive; 
+  color: orangered;
+}
+.gambar {
+  text-align: center;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: grey;
+}
+*, html {
+   margin: 0;
+}
+.kontainer {
+  margin-top: 25px;
+  max-width: 800px;
+  padding: 40px;
+  background-color: #FDF4F5;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px rgba(black, black, black, 0.5);
+  text-align: center;
+  margin: 0px auto;
+ 
+}
